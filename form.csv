@@ -1,0 +1,18 @@
+event_category,main_form,step_name,step_order,form_type
+main,main,Персональные данные,1,Основная
+identification,identification,Идентификация паспортных данных,2,Основная
+taxResidentInfo,taxResidentInfo,Резидент или информация о нерезиденте,3,Основная
+addresses,addresses,Адреса,4,Основная
+employment,employment,Занятость,5,Основная
+contacts,contacts,Контактная информация,6,Основная
+servicePackage,servicePackage,ПУ и счета,7,Основная
+cards,cards,Заказ именных карт,8,Основная
+accessCard,accessCard,Моментальная выдача карты,9,Основная
+summary,summary,Проверка данных и подписание черновика,10,Основная
+questionnaire,questionnaire,Подписание анкеты,11,Основная
+docsUpload,docsUpload,Прикрепление документов,12,Основная
+cardsDelivery,cards,Оформление доставки именных карт,8,Дополнительная
+nonResidentInfo,taxResidentInfo,Ввод информации по нерезидентам,3,Дополнительная
+confirm,summary,Ввод кода из СМС для подписания,10,Дополнительная
+session,main,Старт процесса регистрации,1,Системное
+result,docsUpload,Завершение процесса,12,Системное
